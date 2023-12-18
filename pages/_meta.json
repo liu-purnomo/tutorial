@@ -3,9 +3,15 @@
   "---": {
     "type": "separator"
   },
-  "javascript": "JavaScript",
+  "internet" : "Internet",
+  "home": {
+    "title": "🏠 Beranda",
+    "type": "page",
+    "href": "https://liupurnomo.com",
+    "newWindow": true
+  },
   "contact": {
-    "title": "Contact ↗",
+    "title": "@ Liu Purnomo",
     "type": "page",
     "href": "https://twitter.com/liupurnomo",
     "newWindow": true

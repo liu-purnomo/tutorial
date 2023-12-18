@@ -53,3 +53,7 @@ code.text-\[\.9em\] {
     display: none;
   }
 }
+
+code {
+  white-space : pre-wrap !important;
+}

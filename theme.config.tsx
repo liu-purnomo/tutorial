@@ -11,8 +11,7 @@ const logo = (
       gap: "0.5rem",
     }}
   >
-    <img src="/logo.png" alt="Liu Purnomo" width="30" height="30" />
-    <div className="flex">Liu Purnomo</div>
+    <div className="flex">Tutorial by Liu</div>
   </div>
 );
 
@@ -21,7 +20,7 @@ const config: DocsThemeConfig = {
     const { asPath } = useRouter();
     if (asPath !== "/") {
       return {
-        titleTemplate: "%s – Liu Purnomo",
+        titleTemplate: "%s – Tutorial by Liu",
       };
     }
   },
@@ -62,12 +61,11 @@ const config: DocsThemeConfig = {
     );
   },
   project: {
-    link: "https://github.com/liu-purnomo/tutorial",
+    link: "https://github.com/liu-purnomo",
   },
-  chat: {
-    link: "https://discord.gg/BEeMTGmQ",
+  search: {
+    placeholder: "Cari tutorial..."
   },
-  docsRepositoryBase: "https://gi~thub.com/liu-purnomo/style-guide/tree/main",
   footer: {
     text: (
       <div className="flex w-full flex-col items-center">
