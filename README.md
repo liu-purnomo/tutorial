@@ -1,6 +1,6 @@
 # Tutorial by Liu Purnomo
 
-A brief description for a web tutorial project on GitHub can be:
+Welcome to my open source project
 
 ## **Project Description:**
 
