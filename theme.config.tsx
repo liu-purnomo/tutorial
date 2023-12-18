@@ -63,6 +63,7 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/liu-purnomo",
   },
+  docsRepositoryBase: "https://github.com/liu-purnomo/tutorial",
   search: {
     placeholder: "Cari tutorial..."
   },
