@@ -2,6 +2,11 @@
 
 Welcome to my open source project
 
+## Support Further Development
+
+-   [![GitHub Sponsors](https://img.shields.io/badge/-black?style=social&logo=githubsponsors&label=GitHub%20Sponsor%3A%20Liu%20Purnomo)](https://github.com/sponsors/liu-purnomo)
+-   [![Patreon](https://img.shields.io/badge/-black?style=social&logo=patreon&label=Patreon%3A%20Liu%20Purnomo)](https://patreon.com/LiuPurnomo)
+
 ## **Project Description:**
 
 This project is a comprehensive web tutorial resource designed to assist beginners and experienced developers in understanding key concepts in software development. With step-by-step guidance, the tutorial covers topics such as introduction to programming languages, usage of the latest frameworks, best development practices, and implementation of common solutions in software development.

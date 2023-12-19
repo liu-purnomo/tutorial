@@ -3,7 +3,8 @@
   "---": {
     "type": "separator"
   },
-  "internet" : "Internet",
+  "chat-gpt" : "Chat GPT",
+  "creator-guide": "Panduan Untuk Kreator",
   "home": {
     "title": "🏠 Beranda",
     "type": "page",
@@ -11,7 +12,7 @@
     "newWindow": true
   },
   "contact": {
-    "title": "@ Liu Purnomo",
+    "title": "🐤 Liu Purnomo",
     "type": "page",
     "href": "https://twitter.com/liupurnomo",
     "newWindow": true

@@ -11,7 +11,7 @@ const logo = (
       gap: "0.5rem",
     }}
   >
-    <div className="flex">Tutorial by Liu</div>
+    <div className="flex">Tutorial</div>
   </div>
 );
 
@@ -20,7 +20,7 @@ const config: DocsThemeConfig = {
     const { asPath } = useRouter();
     if (asPath !== "/") {
       return {
-        titleTemplate: "%s – Tutorial by Liu",
+        titleTemplate: "%s – Tutorial",
       };
     }
   },
